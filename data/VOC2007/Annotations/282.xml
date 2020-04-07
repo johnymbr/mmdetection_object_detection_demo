@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>282.png</filename>
+	<path>/home/johny/Documents/mestrado/experimentos/imagens/resized/282.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t50m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>679</xmin>
+			<ymin>314</ymin>
+			<xmax>734</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>70.png</filename>
+	<path>/home/johny/Documents/mestrado/experimentos/imagens/resized/70.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>telev</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>380</ymin>
+			<xmax>767</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>
